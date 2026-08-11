@@ -33,7 +33,7 @@ Bellabeat wants to understand how consumers use smart wellness devices and ident
 
 ## 📂 Dataset
 
-- **Source:** Fitbit Fitness Tracker Data – Kaggle
+- **Source:** Fitbit Fitness Tracker Data – [Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit?select=mturkfitbit_export_4.12.16-5.12.16)
 - **Period Covered:** April 12, 2016 – May 12, 2016
 - **Original Files:** 18 CSV files
 - **Core Datasets Used:** 4
